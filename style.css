@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+   
+     background-image: linear-gradient(red, yellow, blue);
+    
+    
+}
+p{
+    font-family: 'Langar', cursive; 
+}
+img{
+
+    width:30%;
+     border-radius:50%; 
+}
+.menu{
+    
+list-style: none;
+    cursor: pointer;
+    position:absolute;
+    font-family: cursive;
+    
+}
+.links{
+    display: inline;
+    color: burlywood;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.links:hover{
+    color: aqua;
+    
+}
